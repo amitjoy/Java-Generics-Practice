@@ -1,1 +1,1 @@
-# Java-Generics-Practice
+# Java Generics Practice
